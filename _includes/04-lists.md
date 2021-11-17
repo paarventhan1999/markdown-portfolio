@@ -1,1 +1,12 @@
-I like to **CODE** and I like to live stream and if I am CODING on a Live stream then I am __*live Coding*__
+A list of my favorite things:
+* 🐱
+* 🐶
+* 👶
+* 💻
+* 👟
+
+In order, these are my favorite flavors of ice cream:
+1. Chocolate
+2. Rocky Road 
+3. Strawberry
+4. Vanilla with cherries and chocolate sauce
